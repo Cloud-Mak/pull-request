@@ -1,5 +1,5 @@
 - sensors:
-    sensor_1:
+    sensor_11:
       friendly_name: "freindly name 1"       
     sensor_2:
       friendly_name: "friendly name 2"
