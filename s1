@@ -1,3 +1,4 @@
+#edit by mak
 - sensors:
     sensor_11:
       friendly_name: "freindly name 1"       
